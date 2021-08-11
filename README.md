@@ -14,6 +14,10 @@ It's been a while all SSL teams around the world use the same-ish robot, agree o
 # Repository Organization
 I'm borrowing the project file system we use at WR because I think it's well suited to organize this kind of project:
 - DOC - stands for "Documentation"; self-explanatory.
-- DST - stands for "Distribution"; it contains 
-- SRC - stands for "Source"; it contains CAD files
+- DST - stands for "Distribution"; it contains the results/products/outcomes of the source files. Basically what you'd need to manufacture the robot, for example, 2D drawings for machined parts, .steps to make your own G-Code, etc. 
+- SRC - stands for "Source"; it contains CAD files, mainly.
+
 Besides, there'll be a README.md file everywhere I find interesting to explain a design decision, tell about my experience on a subject or explain/give the background on a point.
+
+Also, I'm going to use a V-Model to organize the development but don't expect an Aerospace-grade Systems Engineering. I'll keep things way simpler just to use the model more on the mindset side of the things instead of really going deep in each step and validation.
+<img src="https://user-images.githubusercontent.com/38017504/129079031-009f0c9a-4be0-4add-80eb-8f2cd120da57.png">
