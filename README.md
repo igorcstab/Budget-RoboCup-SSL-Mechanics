@@ -3,6 +3,8 @@ Long story short, the Open Source Hardware Association (OSHWA) basycally says al
 
 For that reason, the **Documentation** of this project is licensed under **CC-BY-SA** (although I didn't bother to put the CC logos everywhere) and the **Hardware** under the **CERN-OHL-W-V2**. Kind of the GNU GPL equivalents. Both can be found at the **Licenses folder**.
 
+Also, everything used open-source/free software anyone could have full access to all files. For the CAD, it was used **FreeCAD**, for the Documentation the **LibreOffice** package.
+
 # About me
 At the moment I'm a Electrical Engineering with Electronics Emphasis student at São Carlos School of Engineering at University of São Paulo ([EESC-USP](https://eesc.usp.br/en/)), member of the Warthog Robotics (WR) team with 5.5 years of experience in mobile robotics and in this project I also intend to share some of my maintenance, design, research and competition experience to help you make your project decisions. You can check my [Linkedin Profile](https://www.linkedin.com/in/igorsantabarbara/) or reach me on igorcsbarbara@gmail.com 
 
