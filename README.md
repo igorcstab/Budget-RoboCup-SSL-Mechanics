@@ -21,3 +21,4 @@ Besides, there'll be a README.md file everywhere I find interesting to explain a
 
 Also, I'm going to use a V-Model to organize the development but don't expect an Aerospace-grade Systems Engineering. I'll keep things way simpler just to use the model more on the mindset side of the things instead of really going deep in each step and validation.
 <img src="https://user-images.githubusercontent.com/38017504/129079031-009f0c9a-4be0-4add-80eb-8f2cd120da57.png">
+So, basically this V-Model-thing it's more about how/where the project starts and ends. With that put, I suggest going first to the Documentation (but of course, if you're not interested, you can just go right to the CAD files or something else).
