@@ -6,7 +6,7 @@ For that reason, the **Documentation** of this project is licensed under **CC-BY
 Also, everything used in this project is open-source/free software so anyone could have full access to all files. For the CAD, it was used **FreeCAD**, for the Documentation the **LibreOffice** package.
 
 # About me
-At the moment I'm a Electrical Engineering with Electronics Emphasis student at São Carlos School of Engineering at University of São Paulo ([EESC-USP](https://eesc.usp.br/en/)), member of the Warthog Robotics (WR) team with 5.5 years of experience in mobile robotics and in this project I also intend to share some of my maintenance, design, research and competition experience to help you make your project decisions. You can check my [Linkedin Profile](https://www.linkedin.com/in/igorsantabarbara/) or reach me on igorcsbarbara@gmail.com 
+At the moment I'm a Electrical Engineering with Electronics Emphasis student at São Carlos School of Engineering at University of São Paulo ([EESC-USP](https://eesc.usp.br/en/)), member of the Warthog Robotics (WR) team with 5.5 years of experience in mobile robotics and in this project I also intend to share some of my maintenance, design, research and competition experience to help you make your project decisions. You can check my [Linkedin Profile](https://www.linkedin.com/in/igorsantabarbara/) or reach me here on GitHub.
 
 # Why another SSL robot?
 It's been a while all SSL teams around the world use the same-ish robot, agree on most of the design decisions and there's little to explore specially when it comes to Hardware Design. Even though, I decided to make my own version for two reasons:
