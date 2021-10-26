@@ -37,7 +37,7 @@ When it's not possible to remove the shaft from the motor, we'd have to design a
 
 Scouting some old team's TDPs (Team Description Paper, which is a document teams from all around the world make telling what they do/did with their bots), we can already look for a trend on wheel diameter in order to make our first decision regarding that. Also, we know the basic concept: a small (diameter-wise) wheel produces more torque in cost of less displacement. What I found was a trend that the biggest wheels are about 60mm of diameter, while the smallest are about 45mm and sizes live somewhere in the middle gaussianly. Kind of. But most of the teams use pretty powerful motors when compared to what I have avaliable. So as one of their motors has more power than my whole robot, my decision is to stick at the low sized wheels to not bite off more than I can chew and to maximize the torque. My robots won't be able to run all over the field but they should work properly.
 
-The number of sub-wheels/rubber wheels/etc (which I'll call "O-rings") is not that critical. Numbers usually range from 15 to 20-ish. 
+The number of sub-wheels/rubber wheels/whatever (which I'll call "O-rings" here) is not that critical. Numbers usually range from 15 to 20-ish. 
 
 # Future Improvements
 
